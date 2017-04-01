@@ -1,7 +1,8 @@
-{
- "dataCenter":"https://zhou7758437.github.io/TvRecommend/films",
- "imgCenter":"https://zhou7758437.github.io/TvRecommend/imgs",
- "films":[
-  {"version":1,"data":}
- ]
-}
+[{
+    "dataCenter": "https://zhou7758437.github.io/TvRecommend/films",
+    "imgCenter": "https://zhou7758437.github.io/TvRecommend/imgs",
+    "films": [{
+        "version": 1,
+        "data": "img/film1.json"
+    }]
+}]
