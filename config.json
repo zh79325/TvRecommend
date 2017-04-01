@@ -3,6 +3,6 @@
     "imgCenter": "https://zhou7758437.github.io/TvRecommend/imgs",
     "films": [{
         "version": 1,
-        "data": "img/film1.json"
+        "data": "films/film1.json"
     }]
 }]
